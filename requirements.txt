@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic-settings
+python-dotenv
+psycopg2
+bcrypt
+PyJWT
+slowapi
+httpx
