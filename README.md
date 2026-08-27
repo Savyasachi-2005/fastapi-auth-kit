@@ -163,16 +163,7 @@ Use the `access_token` from the response:
 curl.exe http://127.0.0.1:8000/users/me -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
 ```
 
----
 
-## What's next (optional)
-
-- Alembic migrations (replace `create_all`)
-- Real email provider (SendGrid, SES)
-- React/Next.js frontend with `credentials: "include"`
-- 2FA, audit logs, production deployment guide
-
----
 
 ## License
 
